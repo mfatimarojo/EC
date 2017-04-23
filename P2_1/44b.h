@@ -1,21 +1,3 @@
-/*-------------------------------------------------------------------
-**
-**  Fichero:
-**    44b.h  10/6/2014
-**
-**    (c) J.M. Mendias
-**    Programaci�n de Sistemas y Dispositivos
-**    Facultad de Inform�tica. Universidad Complutense de Madrid
-**
-**  Prop�sito:
-**    Creaci�n de nemot�cnicos para los registros de los
-**    controladores de dispositivos internos del chip S3C44BOX
-**
-**  Notas de dise�o:
-**    Las direcciones usadas asumen un alineamiento little-endian
-**
-**-----------------------------------------------------------------*/
-
 #ifndef __44B_H__
 #define __44B_H__
 
