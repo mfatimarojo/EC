@@ -1,18 +1,4 @@
-/*---------------------------------------------------------------------
-**
-**  Fichero:
-**    ld_script.ld  10/6/2014
-**
-**    Estructura de Computadores
-**    Dpto. de Arquitectura de Computadores y Automática
-**    Facultad de Informática. Universidad Complutense de Madrid
-**
-**  Propósito:
-**    Script de enlazado
-**
-**  Notas de diseño:
-**
-**-------------------------------------------------------------------*/
+
 
 SECTIONS
 {
