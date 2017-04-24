@@ -1,19 +1,4 @@
-/*-------------------------------------------------------------------
-**
-**  Fichero:
-**    utils.c  10/6/2014
-**
-**    Estructura de Computadores
-**    Dpto. de Arquitectura de Computadores y Automática
-**    Facultad de Informática. Universidad Complutense de Madrid
-**
-**  Propósito:
-**    Contiene las implementaciones de funciones auxiliares
-**
-**  Notas de diseño:
-**    Equivale al fichero homónimo usado en Fundamentos de Computadores 
-**
-**-----------------------------------------------------------------*/
+
 
 #include "44b.h"
 #define MCLK 64000000
